@@ -1,5 +1,5 @@
 {
-  "name": "@weni/unnnic-system",
+  "name": "@yago/unnnic-system",
   "version": "1.24.5",
   "main": "./dist/unnnic.common.js",
   "files": [
